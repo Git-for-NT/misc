@@ -1,0 +1,106 @@
+
+# 🎮 AI Learning Plan: Build a Tetris Bot
+
+## 📍 Phase 1: Core Foundations (2–4 weeks)
+**Goal**: Build essential math and Python skills for AI.
+
+- **Topics**:
+  - Linear algebra (vectors, matrices)
+  - Probability & statistics
+  - Python for data science (NumPy, Pandas, Matplotlib)
+
+- **Resources**:
+  - Khan Academy: https://www.khanacademy.org/math/linear-algebra
+  - 3Blue1Brown YouTube: https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr
+  - Python Data Science Handbook: https://jakevdp.github.io/PythonDataScienceHandbook/
+
+- **Mini Project**: Analyze a dataset from https://www.kaggle.com/datasets (e.g., Titanic survival prediction)
+
+---
+
+## 📍 Phase 2: Machine Learning Basics (4–6 weeks)
+**Goal**: Understand and implement classic ML algorithms.
+
+- **Topics**:
+  - Supervised learning (regression, classification)
+  - Unsupervised learning (clustering, dimensionality reduction)
+  - Model evaluation (confusion matrix, ROC, F1)
+
+- **Resources**:
+  - Coursera ML Course: https://www.coursera.org/learn/machine-learning
+  - Hands-On ML Book: https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/
+
+- **Mini Project**: Build a spam email classifier or a movie recommendation system.
+
+---
+
+## 📍 Phase 3: Deep Learning (4–8 weeks)
+**Goal**: Learn how neural networks work and build deep models.
+
+- **Topics**:
+  - Neural networks (forward/backpropagation)
+  - CNNs for image data
+  - RNNs/LSTMs for sequences
+  - Transfer learning
+
+- **Resources**:
+  - Deep Learning Specialization: https://www.coursera.org/specializations/deep-learning
+  - Fast.ai Course: https://course.fast.ai/
+  - PyTorch Tutorials: https://pytorch.org/tutorials/
+
+- **Mini Project**: Image classifier (e.g., cats vs. dogs), or sentiment analysis on tweets.
+
+---
+
+## 📍 Phase 4: Real-World Projects & Portfolio (Ongoing)
+**Goal**: Apply your skills to real problems and build a portfolio.
+
+- **Ideas**:
+  - AI-powered chatbot
+  - Stock price predictor
+  - Object detection app
+  - AI art generator
+
+- **Platforms**:
+  - Kaggle: https://www.kaggle.com/competitions
+  - GitHub: https://github.com/
+  - Hugging Face: https://huggingface.co/
+
+---
+
+## 📍 Phase 5: Advanced Topics (Optional)
+**Goal**: Explore cutting-edge AI.
+
+- **Topics**:
+  - Transformers & LLMs (e.g., BERT, GPT)
+  - Reinforcement learning
+  - Generative models (GANs, VAEs)
+  - AI ethics and fairness
+
+- **Resources**:
+  - Deep RL Nanodegree: https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893
+  - Hugging Face Course: https://huggingface.co/course
+
+---
+
+## 🎯 First Project: Tetris AI Bot
+
+### 🔧 Overview
+Build an AI agent that plays Tetris:
+1. Simulate the Tetris game environment.
+2. Design a scoring function to evaluate board states.
+3. Implement a decision-making algorithm (e.g., greedy, genetic algorithm, or reinforcement learning).
+4. Visualize the game and the AI’s decisions.
+
+### 🛠️ Tools
+- Python
+- Pygame (for game rendering)
+- NumPy
+- PyTorch (for neural networks)
+- OpenAI Gym (optional)
+
+### 🧩 Milestones
+- Build the Tetris game using Pygame.
+- Add a simple AI using heuristics.
+- Improve with genetic algorithms or reinforcement learning.
+- Visualize and analyze performance.
